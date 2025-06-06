@@ -4,8 +4,5 @@
 venv/
 env/
 
-# Model and intermediate files
-*.joblib
-*.pkl
-*.h5
+
 
