@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Model and intermediate files
+*.joblib
+*.pkl
+*.h5
+
+# Streamlit
+.streamlit/config.toml
+
+# Data files
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.parquet
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# JSON config or sensitive
+columns.json
+secrets.json
+.env
